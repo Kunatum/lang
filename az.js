@@ -1,18 +1,18 @@
 module.exports = {
     global: {
-        successful: "Successful.",
-        something_went_wrong: "Something went wrong.",
-        you_are_banned: "You are banned from Giftix!",
-        beta_mode: "Giftix is currently in beta mode, you must be a beta user to access it.",
-        maintenance_mode: "We are currently doing maintenance to improve our systems, please try later."
+        successful: "Uğurlu.",
+        something_went_wrong: "Hansısa xəta baş verdi.",
+        you_are_banned: "Siz Giftix dən banlanmısınız!",
+        beta_mode: "Giftix hazırda beta rejimindədir, ona daxil olmaq üçün siz beta istifadəçisi olmalısınız.",
+        maintenance_mode: "Hazırda sistemlərimizi təkmilləşdirmək üçün texniki xidmət göstəririk, sonra cəhd edin."
     },
     server: {
-        no_token_provided: "No authorization token provided!",
-        not_found: "404: Route does not exist."
+        no_token_provided: "Səlahiyyətli nişan yoxdur!",
+        not_found: "404: Marşrut mövcud deyil."
     },
     guilds: {
         channels: {
-            not_found: "Guild not found!"
+            not_found: "Guild tapılmadı"
         }
     },
     requireds: {
